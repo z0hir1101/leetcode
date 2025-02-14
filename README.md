@@ -1,19 +1,12 @@
+
 # LEETCODE
 
-There are solves of problems in c/c++ language.
+### There are solves of problems in c/c++ language.
 
-# COUNTER
+### COUNT OF SOLVED PROBLEMS: 6
 
-|-------c-language-------|X|------c++-language-------|
 
-|------------------------|X|-------------------------|
+### COUNT OF SOLVED PROBLEMS ON C: 4
 
-|-easy-|-medium-|--hard--|X|-easy-|--medium--|--hard-|
 
-|------------------------|X|-------------------------|
-
-|------|--------|--------|X|------|----------|-------|
-
-|---2--|----2---|---0----|X|--2---|-----0----|---0---|
-
-|______|________|________|X|______|__________|_______|
+### COUNT OF SOLVED PROBLEMS ON C++: 2
