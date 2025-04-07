@@ -1,12 +1,19 @@
+<div align="center" id="top"> 
+</div>
+<h1 align="center">Leetcode</h1>
+<br>
 
-# LEETCODE
+---
+## :dart: ABOUT ##
 
-### There are solves of problems in c/c++ language.
+There is all my solved leetcode problems
+I ussualy write on python language, but 
+somewhere you can find c and cpp
 
-### COUNT OF SOLVED PROBLEMS: 6
+---
 
-
-### COUNT OF SOLVED PROBLEMS ON C: 4
-
-
-### COUNT OF SOLVED PROBLEMS ON C++: 2
+## :white_check_mark: STATISTIC ##
+ 
+##### EASY:  2 :heavy_check_mark:  
+##### MEDIUM:  1 :heavy_check_mark:  
+##### HARD:  0 :heavy_check_mark:  
