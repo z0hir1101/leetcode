@@ -8,3 +8,7 @@ class Solution:
             dp |= dp << num
 
         return (dp & (1 << sum(nums) // 2)) != 0   
+
+
+nums = list(map(int, input().split()))
+print(Solution.canPartition(None, nums))
