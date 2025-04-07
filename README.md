@@ -1,6 +1,6 @@
 <div align="center" id="top"> 
 </div>
-<h1 align="center">Leetcode</h1>
+<h1 align="center">leetcode</h1>
 <br>
 
 ---
