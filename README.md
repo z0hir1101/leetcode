@@ -15,5 +15,5 @@ somewhere you can find c and cpp
 ## :white_check_mark: STATISTIC ##
  
 ##### EASY:  2 :heavy_check_mark:  
-##### MEDIUM:  4 :heavy_check_mark:  
-##### HARD:  0 :heavy_check_mark:  
+##### MEDIUM:  5 :heavy_check_mark:  
+##### HARD:  1 :heavy_check_mark:  
